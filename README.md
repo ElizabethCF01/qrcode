@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order QR Code challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -9,13 +9,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Author](#author)
 
 ### The challenge
 
-Your challenge is to build out this order summary card component and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 ### Screenshot
 
 ![](./screenshot.jpg)
